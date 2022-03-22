@@ -1,0 +1,1 @@
+import{_ as e,o as r,a as c}from"./app.7a79b439.js";const n={};function t(a,o){return r(),c("p",null,"\u8FD9\u662F\u4E00\u4E2A\u535A\u5BA2\u4E3B\u9875\u3002")}var s=e(n,[["render",t]]);export{s as default};
